@@ -1,0 +1,14 @@
+#ulistAbout {
+    font-weight: bold;
+}
+
+#myImage {
+    width: 150px;
+    height:150px;
+    float: left;
+    padding-right: 25px;
+}
+
+#myDescription{
+    width: auto;
+}

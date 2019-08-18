@@ -1,0 +1,43 @@
+#ulistPortfolio {
+  font-weight: bold;
+}
+
+img{
+  width: 325px;
+  height:175px;
+  padding-right: 25px;
+}
+
+
+#row1 {
+ padding-top: 25px;
+}
+
+.pictureContainer{
+  float: left;
+  position: relative;
+}
+
+.textblock{
+  position: absolute;
+  float: left;
+  background: #4aaaa5;
+  height: 15px;
+  color: white;
+  width: 325px;
+  padding-bottom: 40px;
+  line-height: 300%;
+  text-align: center;
+  margin-top:-70px;
+}
+
+#row2 {
+  clear: both;
+  padding-top: 25px;
+}
+
+
+#row3 {
+  clear: both;
+  padding-top: 25px;
+}
